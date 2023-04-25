@@ -1,8 +1,12 @@
 import React from 'react'
 
-function Movies() {
+
+const Movies = () => {
+
   return (
-    <div>Movies</div>
+    <div>
+      <h1>MovieCard</h1>
+    </div>
   )
 }
 
